@@ -1,5 +1,5 @@
 
-for (let i = 21; i < 31; i++) {
+for (let i = 21; i <= 30; i++) {
     
     console.log(i);
 }
