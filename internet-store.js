@@ -5,4 +5,5 @@ let preces = [
   { prece: "cepure", kategorija: "drēbes", cena: 5, daudzums: 150}
 ];
 
-console.log(kategorija)
+console.log(preces)
+

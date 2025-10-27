@@ -5,4 +5,3 @@ let people = [
   { name: "Oskars", age: 21, isStudent: false}
 ];
 
-for (let people)
