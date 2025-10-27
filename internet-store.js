@@ -5,5 +5,12 @@ let preces = [
   { prece: "cepure", kategorija: "drēbes", cena: 5, daudzums: 150}
 ];
 
-console.log(preces)
+
+let elektronikasPreces = preces.filter(prece => prece.kategorija === "elektronika");
+
+elektronikasPreces.forEach(prece => {
+  console.log(prece.prece);
+});
+
+
 
